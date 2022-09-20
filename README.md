@@ -10,9 +10,9 @@
 ##
 
    ***Addon techs:***
-   - Eslint
-   - Bootstrap
-   - PropTypes
-   - Axios
-   - Lodash
-   - NanoId
+   - [Eslint](https://eslint.org/)
+   - [Bootstrap](https://getbootstrap.com/)
+   - [PropTypes](https://www.npmjs.com/package/prop-types)
+   - [Axios](https://axios-http.com/)
+   - [Lodash](https://www.npmjs.com/package/lodash)
+   - [NanoId](https://www.npmjs.com/package/nanoid)
